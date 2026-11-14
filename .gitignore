@@ -1,0 +1,12 @@
+*.log
+*.txt
+data/*
+figures/*
+figure/*
+ckt/*
+results/*
+nohup.out
+backup/*
+*.pkl
+results_super/*
+results_hyper/*
